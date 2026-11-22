@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sarthak125.pitwall",
+      "sha256_cert_fingerprints": ["77:9B:58:0A:82:C8:89:E6:4C:80:85:34:59:AD:32:13:4C:66:0D:AC:3F:C3:AD:FB:32:8B:D6:98:B2:49:95:3F"]
+    }
+  }
+]
